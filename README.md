@@ -1457,6 +1457,7 @@
 |---|---|---|---|
 | [Archive.org](https://archive.readme.io/docs) | The Internet Archive | No | No |
 | [ArgentinaDatos](https://argentinadatos.com/) | Unofficial Argentinian data API | No | Yes |
+| [BetTip](https://bettip.co.za/api/) | UK49s, Gosloto and South African lottery results as JSON and CSV, with a UK49s archive dating to 2018 | No | Yes |
 | [Black History Facts](https://www.blackhistoryapi.io/docs) | Contribute or search one of the largest black history fact databases on the web | `apiKey` | Yes |
 | [BotsArchive](https://botsarchive.com/docs.html) | JSON formatted details about Telegram Bots available in database | No | Unknown |
 | [Callook.info](https://callook.info) | United States ham radio callsigns | No | Unknown |
